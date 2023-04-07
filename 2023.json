@@ -1,7 +1,7 @@
 {
     "20230101": {
         "weekday": "日",
-        "isholiday": True,
+        "isholiday": true,
         "description": "開國紀念日"
     },
     "20230102": {
