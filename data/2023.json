@@ -1,0 +1,1827 @@
+{
+    "20230101": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": "開國紀念日"
+    },
+    "20230102": {
+        "weekday": "一",
+        "isholiday": true,
+        "description": "補假"
+    },
+    "20230103": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230104": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230105": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230106": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230107": {
+        "weekday": "六",
+        "isholiday": false,
+        "description": "補行上班"
+    },
+    "20230108": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230109": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230110": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230111": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230112": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230113": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230114": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230115": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230116": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230117": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230118": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230119": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230120": {
+        "weekday": "五",
+        "isholiday": true,
+        "description": "小年夜"
+    },
+    "20230121": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": "農曆除夕"
+    },
+    "20230122": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": "春節"
+    },
+    "20230123": {
+        "weekday": "一",
+        "isholiday": true,
+        "description": "春節"
+    },
+    "20230124": {
+        "weekday": "二",
+        "isholiday": true,
+        "description": "春節"
+    },
+    "20230125": {
+        "weekday": "三",
+        "isholiday": true,
+        "description": "補假"
+    },
+    "20230126": {
+        "weekday": "四",
+        "isholiday": true,
+        "description": "補假"
+    },
+    "20230127": {
+        "weekday": "五",
+        "isholiday": true,
+        "description": "調整放假"
+    },
+    "20230128": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230129": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230130": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230131": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230201": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230202": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230203": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230204": {
+        "weekday": "六",
+        "isholiday": false,
+        "description": "補行上班"
+    },
+    "20230205": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230206": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230207": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230208": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230209": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230210": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230211": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230212": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230213": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230214": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230215": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230216": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230217": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230218": {
+        "weekday": "六",
+        "isholiday": false,
+        "description": "補行上班"
+    },
+    "20230219": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230220": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230221": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230222": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230223": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230224": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230225": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230226": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230227": {
+        "weekday": "一",
+        "isholiday": true,
+        "description": "調整放假"
+    },
+    "20230228": {
+        "weekday": "二",
+        "isholiday": true,
+        "description": "和平紀念日"
+    },
+    "20230301": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230302": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230303": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230304": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230305": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230306": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230307": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230308": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230309": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230310": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230311": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230312": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230313": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230314": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230315": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230316": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230317": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230318": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230319": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230320": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230321": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230322": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230323": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230324": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230325": {
+        "weekday": "六",
+        "isholiday": false,
+        "description": "補行上班"
+    },
+    "20230326": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230327": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230328": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230329": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230330": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230331": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230401": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230402": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230403": {
+        "weekday": "一",
+        "isholiday": true,
+        "description": "調整放假"
+    },
+    "20230404": {
+        "weekday": "二",
+        "isholiday": true,
+        "description": "兒童節"
+    },
+    "20230405": {
+        "weekday": "三",
+        "isholiday": true,
+        "description": "民族掃墓節"
+    },
+    "20230406": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230407": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230408": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230409": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230410": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230411": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230412": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230413": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230414": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230415": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230416": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230417": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230418": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230419": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230420": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230421": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230422": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230423": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230424": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230425": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230426": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230427": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230428": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230429": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230430": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230501": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230502": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230503": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230504": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230505": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230506": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230507": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230508": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230509": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230510": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230511": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230512": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230513": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230514": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230515": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230516": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230517": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230518": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230519": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230520": {
+        "weekday": " 六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230521": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230522": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230523": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230524": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230525": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230526": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230527": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230528": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230529": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230530": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230531": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230601": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230602": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230603": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230604": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230605": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230606": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230607": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230608": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230609": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230610": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230611": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230612": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230613": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230614": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230615": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230616": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230617": {
+        "weekday": "六",
+        "isholiday": false,
+        "description": "補行上班"
+    },
+    "20230618": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230619": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230620": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230621": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230622": {
+        "weekday": "四",
+        "isholiday": true,
+        "description": "端午節"
+    },
+    "20230623": {
+        "weekday": "五",
+        "isholiday": true,
+        "description": "調整放假"
+    },
+    "20230624": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230625": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230626": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230627": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230628": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230629": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230630": {
+        "weekday": " 五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230701": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230702": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230703": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230704": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230705": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230706": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230707": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230708": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230709": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230710": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230711": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230712": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230713": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230714": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230715": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230716": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230717": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230718": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230719": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230720": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230721": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230722": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230723": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230724": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230725": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230726": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230727": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230728": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230729": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230730": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230731": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230801": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230802": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230803": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230804": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230805": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230806": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230807": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230808": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230809": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230810": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230811": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230812": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230813": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230814": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230815": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230816": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230817": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230818": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230819": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230820": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230821": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230822": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230823": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230824": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230825": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230826": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230827": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230828": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230829": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230830": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230831": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230901": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230902": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230903": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230904": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230905": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230906": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230907": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230908": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230909": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230910": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230911": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230912": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230913": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230914": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230915": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230916": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230917": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230918": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230919": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230920": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230921": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230922": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230923": {
+        "weekday": "六",
+        "isholiday": false,
+        "description": "補行上班"
+    },
+    "20230924": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20230925": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230926": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230927": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230928": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20230929": {
+        "weekday": "五",
+        "isholiday": true,
+        "description": "中秋節"
+    },
+    "20230930": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231001": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231002": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231003": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231004": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231005": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231006": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231007": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231008": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231009": {
+        "weekday": "一",
+        "isholiday": true,
+        "description": "調整放假"
+    },
+    "20231010": {
+        "weekday": "二",
+        "isholiday": true,
+        "description": "國慶日"
+    },
+    "20231011": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231012": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231013": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231014": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231015": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231016": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231017": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231018": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231019": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231020": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231021": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231022": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231023": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231024": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231025": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231026": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231027": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231028": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231029": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231030": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231031": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231101": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231102": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231103": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231104": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231105": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231106": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231107": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231108": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231109": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231110": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231111": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231112": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231113": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231114": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231115": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231116": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231117": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231118": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231119": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231120": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231121": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231122": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231123": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231124": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231125": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231126": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231127": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231128": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231129": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231130": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231201": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231202": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231203": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231204": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231205": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231206": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231207": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231208": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231209": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231210": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231211": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231212": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231213": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231214": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231215": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231216": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231217": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231218": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231219": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231220": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231221": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231222": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231223": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231224": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231225": {
+        "weekday": "一",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231226": {
+        "weekday": "二",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231227": {
+        "weekday": "三",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231228": {
+        "weekday": "四",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231229": {
+        "weekday": "五",
+        "isholiday": false,
+        "description": ""
+    },
+    "20231230": {
+        "weekday": "六",
+        "isholiday": true,
+        "description": ""
+    },
+    "20231231": {
+        "weekday": "日",
+        "isholiday": true,
+        "description": ""
+    }
+}
